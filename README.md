@@ -1,2 +1,2 @@
 # gitskills
-Creating a new branch is quick and simple dev ceshi.
+Creating a new branch is quick and simple.
